@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # $!aQ=PZT(s
-AWS_SECRET_KEY = '' # ?O=x\\Ec!,
-# "nTJ\/_y*f
-# /@!MRxt)_&
-# LWw_u!`pc&
-# qHFIH`z%q^
-# QL$E{oYiZs
+AWS_ACCESS_KEY_ID = '' # j"QO?FdK}`
+AWS_SECRET_KEY = '' # IiXa]:ytWX
+# Rh?<*jg^Q)
+# vbs_gXqrVo
+# :!_xu-JYbN
+# %@McFgezHN
+# #sn';r\bd@
