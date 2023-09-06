@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # <C.sBN{{AN
-AWS_SECRET_KEY = '' # Hu-XPhP(!=
-# h&HO,H^ggD
-# V-bCsnfti=
-# a";E]DRugE
-# Cs?ap+rMG~
-# BOz!=_(M'I
+AWS_ACCESS_KEY_ID = '' # $)ciINe#t'
+AWS_SECRET_KEY = '' # c/_gd":!mN
+# /#KQY+:lN!
+# P^cFvqfn}(
+# K.]E!fp)[;
+# Gw+$;ADml>
+# ybHcoOiYM<
