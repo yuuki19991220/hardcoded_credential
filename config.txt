@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # $:Thr(e=oA
-AWS_SECRET_KEY = '' # ;mPEjkcS.g
-# \/icf&JeO?
-# ^CxzP?j{!o
-# cvf(_|V>IT
-# Ts{V:{L'#D
-# @<zNMO#M|y
+AWS_ACCESS_KEY_ID = '' # JSez{PjeFQ
+AWS_SECRET_KEY = '' # F?resj&iE)
+# j*WsL,C@.v
+# l?^Y]cBT|z
+# D<DpTL=]NP
+# GPv/Yp}:|r
+# oT~R!NTe)v
