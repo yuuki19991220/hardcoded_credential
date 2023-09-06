@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # gipi:pN_=Y
-AWS_SECRET_KEY = '' # FTY[CELvKl
-# hl`yv/d-@i
-# \>pBtR.Nkr
-# X:!EN\L/Z&
-# ':<GQr)>V^
-# RCdwJs[$g\
+AWS_ACCESS_KEY_ID = '' # f|#^RiLJ?.
+AWS_SECRET_KEY = '' # B?fILGu|c[
+# #^x!wEUO|M
+# :LKfNQxxA;
+# F-Ft{F/eE/
+# H_@zxL'a[C
+# _wQ&k'pOaU
