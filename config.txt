@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # OIL<@?SDPU
-AWS_SECRET_KEY = '' # aM&j?:{Whv
-# Hj!Ue!C+eS
-# {)b<;rN=Xl
-# \.N??Pqf&g
-# i:x,=x<ffl
-# NFITg_V+RI
+AWS_ACCESS_KEY_ID = '' # xb=x|%IbW\
+AWS_SECRET_KEY = '' # C;]EpG|KLX
+# )!bnmX#.?*
+# BHgL\_S@K-
+# !gvUNmIPf;
+# &|S]{gA-e/
+# [gPgMxY@k-
