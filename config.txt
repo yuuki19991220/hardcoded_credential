@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # >ASsWA({wj
-AWS_SECRET_KEY = '' # <[xjhwjU\]
-# %B`ykCwQ[}
-# Q*&'*kM.`g
-# /:rYspBCM/
-# jc`x.WElZm
-# Z/VTZ~XXGi
+AWS_ACCESS_KEY_ID = '' # d;O>paG%u,
+AWS_SECRET_KEY = '' # %Cei^eL;wV
+# bOtw^!<Iye
+# pAYtRoE}m!
+# M&DAB'",}h
+# ^XvVJiG*z:
+# vSAlGwd!\]
