@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # $ovw;<$DV{
-AWS_SECRET_KEY = '' # ?w}LuyI]iC
-# sx(qpMSnUX
-# O+y]n%QXw,
-# wtun[z.CXa
-# ?=v>V~GPd*
-# ImE^!<o-Ev
+AWS_ACCESS_KEY_ID = '' # eW{yU%&.J.
+AWS_SECRET_KEY = '' # `QeEgIUavn
+# NC)O|f]^'_
+# eQP}lUCxrk
+# aTXAQgOvZy
+# &?h-+wJ(jk
+# Fmh$s{{l}:
