@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # l/NzyE.VAR
-AWS_SECRET_KEY = '' # )QeFP]n%&a
-# ,WgOm"^]GT
-# /mCl-*ng\)
-# XhoIB"[[Ac
-# >y+mAUMK'Y
-# YO*o^iS<d]
+AWS_ACCESS_KEY_ID = '' # r~%(v(T=-i
+AWS_SECRET_KEY = '' # Wcr}hQbjw~
+# r,/HtN_VxO
+# *sC.$ULCj;
+# fXTEn*TrG]
+# rgNx*bfGP_
+# dky~j}iGf+
