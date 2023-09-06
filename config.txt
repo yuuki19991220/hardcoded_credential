@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # SIlbU:pRB(
-AWS_SECRET_KEY = '' # PiCbuTHfar
-# &u>js#wuJy
-# IlK&rGruzd
-# v&"q+U.ksE
-# ,b^JqgZ%Oh
-# -Q?jgqSWOE
+AWS_ACCESS_KEY_ID = '' # a]?)MIzYAQ
+AWS_SECRET_KEY = '' # :capC%z[AS
+# "/P:h_$=%c
+# MRF.~IP=Go
+# vyuKh#yA!p
+# raFZA}[rG)
+# Hh"fq}]Y''
