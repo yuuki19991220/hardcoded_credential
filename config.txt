@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # c'in,t<y&J
-AWS_SECRET_KEY = '' # o@(rA:Q`y~
-# )OLnr#$d>N
-# LC})]|j?S[
-# mSdF</GQ@O
-# |'xvV:PzUM
-# XD&_VEke_Z
+AWS_ACCESS_KEY_ID = '' # @Bmvm=vNAr
+AWS_SECRET_KEY = '' # k^_"X"dP.h
+# "YTpJV+/"V
+# Ob+jR!?!o`
+# b-gAMvsFuJ
+# Bs~CPF'Qxs
+# AB!b{{rRh]
