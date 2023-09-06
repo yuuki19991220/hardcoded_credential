@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # ){"l[aSgO\
-AWS_SECRET_KEY = '' # =\.+nTk}=Q
-# [f}<?OBj{$
-# gbw/q{BzWN
-# zR:]<a.yA|
-# :*@HAsIf(z
-# XLMFaHrZ:O
+AWS_ACCESS_KEY_ID = '' # i<_GP&d+WM
+AWS_SECRET_KEY = '' # @^yS/ni~*`
+# #!<tYxX-?;
+# tWRMI&*?qP
+# *"}taXs[zx
+# .{br.c;>$h
+# h$w'ch$x+u
