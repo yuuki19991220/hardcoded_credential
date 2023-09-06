@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # RQI{WVE:Zn
-AWS_SECRET_KEY = '' # "Ik>#zs$zb
-# 'Wim/m-KLO
-# f^jWJAjvwx
-# )YRa;ue$m$
-# y=Sh'p%'Fj
-# w!;L(EA<CH
+AWS_ACCESS_KEY_ID = '' # ;GkS/dqxfQ
+AWS_SECRET_KEY = '' # cRe\ezYX?`
+# OVE;:vDZk:
+# #zGBr|&g&p
+# Pl,lrGcm@'
+# O{b+sCPxWu
+# MsguCc@~o;
