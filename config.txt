@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # O_<>C{=DVD
-AWS_SECRET_KEY = '' # |JW^M;<f-y
-# Gyc,Chw#Nc
-# |j%:+YlZM-
-# ewX-fWeD)z
-# LyVHCpO-]H
-# Xm}HU#%T[z
+AWS_ACCESS_KEY_ID = '' # ccp?Ee<cc+
+AWS_SECRET_KEY = '' # rr^PDd+/F?
+# KWG(+O@<(M
+# RMW,+BHWJa
+# n>Nq|,qGV!
+# .T*l.+FRRo
+# tc/gO;bG?x
