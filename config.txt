@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # VPU(xamdrW
-AWS_SECRET_KEY = '' # SUa:pe,S*,
-# 'g&yPyPl%~
-# N<*y!-!JLU
-# HBP&o$/-U<
-# {pgNYdIQIi
-# u-mTm+klQZ
+AWS_ACCESS_KEY_ID = '' # W^wZ&]^R),
+AWS_SECRET_KEY = '' # hN.mfo\.rW
+# Z'EtvO=k:e
+# ,a(>=D`tmW
+# pw>=YAxNF:
+# +/N}FP`YNJ
+# %]jCOxb>*k
