@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # /dDbmo/Tga
-AWS_SECRET_KEY = '' # lmg<D,*or>
-# z:I~Nx*B}=
-# hvDRjU&}zi
-# `Xd!}=ByAo
-# t}|;/r-;Ko
-# d**'D?d|\K
+AWS_ACCESS_KEY_ID = '' # RFn@-@JViS
+AWS_SECRET_KEY = '' # omMLvmV#rU
+# c|i=Ou>F(B
+# t,T*=w@Nuu
+# K(Y+|-qdZm
+# >N;Q$>lefo
+# p*XOD\(`bd
