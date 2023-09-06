@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # ?\@x{*"mdb
-AWS_SECRET_KEY = '' # U-\Z]$H;,^
-# iA!V+NkowR
-# t;wk~#xNlL
-# VYWPg.F^y<
-# RX}k|rPWN(
-# PyeP(&+CCv
+AWS_ACCESS_KEY_ID = '' # G%bq_"j}p]
+AWS_SECRET_KEY = '' # %T'o}*z#~(
+# Q@ASqWA"L+
+# FhF"[{o,(>
+# f(>Mp@A?n<
+# CUSTY*a$eM
+# kyw)ln:Lt^
