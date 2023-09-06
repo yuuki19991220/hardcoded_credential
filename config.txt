@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # m-SyxPr{Eg
-AWS_SECRET_KEY = '' # sg^|@Zb%WK
-# +uG[UDu'jW
-# h(u=fS!J(P
-# sa*sPMbJFv
-# k_SGNR)TaS
-# zSK"@@=|?e
+AWS_ACCESS_KEY_ID = '' # dWp[]!ojJ;
+AWS_SECRET_KEY = '' # $/mZNZzeW#
+# ]Dc.?qDXRU
+# KzgB:p$HBG
+# #-T{=oY.F{
+# #PW~h>xzYa
+# JdeuOYl{HA
