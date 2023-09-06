@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # FLz{LTNEsk
-AWS_SECRET_KEY = '' # {zci:G"?Ky
-# c:lQ\Jyr^S
-# bfh]UU@jKo
-# {pasx__CJ(
-# ,~z\GgA/X!
-# !<d\O.a{<(
+AWS_ACCESS_KEY_ID = '' # HV)GFqT`F^
+AWS_SECRET_KEY = '' # R+\sPoBt%z
+# pwME>A[bs-
+# rES`<ZdGMF
+# ~.Kg/c``Au
+# _tq%Kobi_z
+# ~@kVFpf[IM
