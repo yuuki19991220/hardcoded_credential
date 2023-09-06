@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # WMtroPU(Fl
-AWS_SECRET_KEY = '' # &/W^ViSo*~
-# lO!cWAQY['
-# hqVxY]N_lC
-# gbm;HR<G(x
-# A?:qv{&]d}
-# RIQRRVs`/i
+AWS_ACCESS_KEY_ID = '' # ){"l[aSgO\
+AWS_SECRET_KEY = '' # =\.+nTk}=Q
+# [f}<?OBj{$
+# gbw/q{BzWN
+# zR:]<a.yA|
+# :*@HAsIf(z
+# XLMFaHrZ:O
