@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # rnf:SH("%n
-AWS_SECRET_KEY = '' # xo>'SjokVU
-# DvXup+*@HN
-# GL=Gdt}C^a
-# |wRGd+S:Ja
-# ,.WOB@sX_$
-# "ctiwxxK^:
+AWS_ACCESS_KEY_ID = '' # WeG.:;ReE[
+AWS_SECRET_KEY = '' # [)|gn{*VOx
+# n*c*ANn)|J
+# KC?!QD$gt,
+# i,]\cMD'MZ
+# ]~#ooc==W)
+# jIGe<^Y(XC
