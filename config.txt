@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # Om:T-P)[>%
-AWS_SECRET_KEY = '' # #V'st_Lc;~
-# pp?@\F+]^Q
-# yh'd<o.!*q
-# -kD^TNv_vA
-# q'-zyYT>X>
-# =.>.MM?Y:v
+AWS_ACCESS_KEY_ID = '' # YUsavg`-*~
+AWS_SECRET_KEY = '' # SYnc'Gd([$
+# jX(<B;xZ(]
+# dY)cD*<CF-
+# >P%m:!*NLg
+# NQd.;^zQbX
+# .m+./c!RU}
