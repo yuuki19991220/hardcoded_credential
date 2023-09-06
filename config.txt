@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # GPLuxj.QJh
-AWS_SECRET_KEY = '' # !I-P}O*{a+
-# y%`=WnX/q-
-# \^Mr*:*'_!
-# -F.(YmAEoi
-# JSwOCA:?S:
-# bCJgZ<Pztp
+AWS_ACCESS_KEY_ID = '' # a}-!#'U}mY
+AWS_SECRET_KEY = '' # {O:{Obt=uT
+# }g(sr>wgWl
+# '#$VH}QsFi
+# ];BAIvRPTW
+# SOfm<])=_x
+# bzYJAGCAvr
