@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # ryGux<'{{$
-AWS_SECRET_KEY = '' # |QWWhH@Ywv
-# `_G>YQh}U>
-# XpL'Dg,hA`
-# /"`E<^fzUg
-# uG!Y&|QLT/
-# DIo(S=/cFF
+AWS_ACCESS_KEY_ID = '' # hB,pZ+V_nu
+AWS_SECRET_KEY = '' # r-:P!Q)D)V
+# T,"GaoCpy+
+# ~$(iHl[>oZ
+# zDI)hZC('`
+# [uf-Sua>ik
+# %pg~g?p!zh
