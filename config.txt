@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # gcG\e<YA(i
-AWS_SECRET_KEY = '' # hznw=j}zj~
-# ,>fca[{CH;
-# tTx~DI:~;;
-# ]e|`qz\FTP
-# _i[:]=Bs\J
-# #=C@!Xc)_v
+AWS_ACCESS_KEY_ID = '' # s\:gBoFPfI
+AWS_SECRET_KEY = '' # `\k!mM/IP,
+# >;d:\a'_!-
+# `=uVBi~Z)*
+# zV:GeJw%BC
+# i(>OklkZI!
+# Xi&c"aHffB
