@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # N]kOp[Lesx
-AWS_SECRET_KEY = '' # BlSR>ID|.)
-# `vivZAvB?[
-# aocwKy#mX'
-# H]}}YC{cN)
-# yhG#q?{BXv
-# Wwjy'}&$Eq
+AWS_ACCESS_KEY_ID = '' # {BktpnFH[S
+AWS_SECRET_KEY = '' # e>kqmZU_=w
+# vW;|jr"+q.
+# n!/EzVwhyh
+# Fh(y;RZEx!
+# WX{dD+cBX*
+# }cUyN]%wvI
