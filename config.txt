@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # WeG.:;ReE[
-AWS_SECRET_KEY = '' # [)|gn{*VOx
-# n*c*ANn)|J
-# KC?!QD$gt,
-# i,]\cMD'MZ
-# ]~#ooc==W)
-# jIGe<^Y(XC
+AWS_ACCESS_KEY_ID = '' # cY[;FI#t+R
+AWS_SECRET_KEY = '' # 'F-f>u}SC{
+# XUDpx*%R_<
+# uKu#&dRr~w
+# Ei@WQ}~s}|
+# H]pvUkcG)E
+# HR^")smUNV
