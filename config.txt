@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # fatty{&@qg
-AWS_SECRET_KEY = '' # TlO$r;,[;+
-# l^dWZ{uBAU
-# <{,k:',+@X
-# C!kOk'vJW?
-# wKGcg)s,p{
-# ;p(XYj\ZnN
+AWS_ACCESS_KEY_ID = '' # \K(H/-.*"t
+AWS_SECRET_KEY = '' # G-i!uS!zU^
+# w]O!..vwHp
+# sA$IrSDrSi
+# Aw#]ha`&ht
+# ?;{`cKtHY:
+# |=)a{?'azI
