@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # MkOSO{[I"Q
-AWS_SECRET_KEY = '' # `YH^Q+hfwD
-# `CZM&=te+O
-# Y/WBx_ojXX
-# uO*FuI'jSF
-# .q]%moRz+V
-# F(RqB,~MJL
+AWS_ACCESS_KEY_ID = '' # PTeW*<ugd)
+AWS_SECRET_KEY = '' # HjvQjPRUIx
+# RR=i_jtJYN
+# MEmubtoi+a
+# Sij=K*.\*=
+# lQkRdIIXON
+# :'())>),%,
