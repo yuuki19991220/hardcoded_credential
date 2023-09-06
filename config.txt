@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # Zyagx(QAPG
-AWS_SECRET_KEY = '' # Y,w-VYhz%P
-# $H(ESEXyV+
-# eeXp$AE]s^
-# .QlbP'`c/Q
-# ]dPJD%+wr{
-# f?^+nGu:ZO
+AWS_ACCESS_KEY_ID = '' # |;G;j=bi@C
+AWS_SECRET_KEY = '' # o`]%d"Thq;
+# n-h=X=urE-
+# nwZP.?!#-I
+# jypH-Tii_)
+# \gV~C'Pm-]
+# #('qz:(f?R
