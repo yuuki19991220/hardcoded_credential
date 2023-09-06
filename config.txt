@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # TZlQ<}^Qvp
-AWS_SECRET_KEY = '' # -$+<aNZa'[
-# %(qq{*u<%M
-# /tmz/dPd!M
-# z&BXPcjIYK
-# @-rFAte,hs
-# *VR!,PBbSs
+AWS_ACCESS_KEY_ID = '' # Cy]ma@p[+R
+AWS_SECRET_KEY = '' # Qd;>GX~k/V
+# bJsdgWf'pH
+# BcXO++&nuT
+# ){`lh'e/lQ
+# `H,jt=s#"L
+# qKWG]=ATro
