@@ -1,7 +1,7 @@
-AWS_ACCESS_KEY_ID = '' # HtiUG($wJt
-AWS_SECRET_KEY = '' # F$%=^\&S`e
-# atpL%^(JC/
-# C)P=Z:j"id
-# .\V>?eFW(O
-# e"-!`+tbo(
-# ZkbXkH}zxp
+AWS_ACCESS_KEY_ID = '' # ]!+o|/,r.P
+AWS_SECRET_KEY = '' # bx,(ywxRDQ
+# n/Z[:?V]X+
+# >fOO"YZi-)
+# [N,`n'\S&;
+# e'mmihp?{G
+# _/+!bmzn!x
